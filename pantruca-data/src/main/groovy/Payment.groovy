@@ -3,7 +3,7 @@
  * @since 5/2/16
  */
 class Payment {
-    String creditCard
+    Integer number
     String name
     Integer mm
     Integer yy

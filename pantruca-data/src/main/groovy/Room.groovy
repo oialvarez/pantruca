@@ -7,6 +7,6 @@ class Room {
     String code
     Double price
     Integer capacity
-    Collection<Booking> booking
+    Collection<Booking> bookings
     Collection<Image> images
 }

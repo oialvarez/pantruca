@@ -5,6 +5,6 @@
 class Booking {
     Room room
     Traveler traveler
-    Collection<Date> stay
+    Collection<Date> stays
     Payment payment
 }
