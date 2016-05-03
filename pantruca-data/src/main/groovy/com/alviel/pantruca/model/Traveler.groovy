@@ -1,14 +1,11 @@
-
+package com.alviel.pantruca.model
 /**
  * @author Oscar Alvarez
  * @since 5/2/16
  */
-class Customer {
-    Boolean available
+class Traveler {
     String name
-    String description
     String email
     Character[] password
-    Collection<Room> rooms
     Collection<Payment> payments
 }
