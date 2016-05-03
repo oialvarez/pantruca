@@ -1,2 +1,3 @@
 include 'pantruca-data'
+include 'pantruca-rest'
 
