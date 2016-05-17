@@ -4,7 +4,7 @@ package com.alviel.pantruca.model
  * @since 5/2/16
  */
 class Payment {
-    Integer number
+    Character[] number
     String name
     Integer mm
     Integer yy
